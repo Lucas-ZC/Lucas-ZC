@@ -7,4 +7,4 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)">
