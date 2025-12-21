@@ -41,3 +41,5 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/output/snake.svg" alt="Snake animation" />
