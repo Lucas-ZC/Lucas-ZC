@@ -9,3 +9,9 @@
 
 <img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+apprentice: {
+    title_color: "ffffff",
+    icon_color: "ffffaf",
+    text_color: "bcbcbc",
+    bg_color: "262626"}
