@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-ZC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="left">Linguagens e ferramentas</h2>
 
 ###
@@ -30,12 +34,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Lucas-ZC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Lucas-ZC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
