@@ -18,13 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-ZC&hide_title=true&theme=dracula&show_icons=true&cache_buster=1&card_width=750" height="150" alt="gráfico de status do perfil principal" />
 </div>
 
-###
-
-<div align="center">
-
-## Contribuições da Conta Primária
 ![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ###
 
@@ -39,11 +33,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasZanellaCapitanio-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
 </div>
 
-<div align="center">
-
-## Contribuições da Conta Secundária
 ![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ###
 
