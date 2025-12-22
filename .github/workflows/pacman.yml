@@ -1,0 +1,43 @@
+name: Update 3D Pacman Contributions
+
+on:
+  schedule:
+    # Atualiza TODO DIA ÀS 8h UTC (5h Brasil)
+    - cron: "0 8 * * *"
+  workflow_dispatch:  # Permite executar manualmente
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v3
+        
+      - name: Generate 3D Pacman Chart
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # SEU USUÁRIO AQUI ↓
+          github_user_name: Lucas-ZC
+          # Opções importantes:
+          auto_commit: true           # Faz commit automático
+          settings_template: classic  # Estilo Pacman
+          
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'dist/'
+          
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
