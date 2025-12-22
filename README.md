@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-ZC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-ZC&hide_title=true&theme=dracula&show_icons=true&cache_buster=1&card_width=750" height="150" alt="gráfico de status do perfil principal" />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasZanellaCapitanio-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasZanellaCapitanio-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
 </div>
 
 ![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
