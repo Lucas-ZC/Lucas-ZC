@@ -4,7 +4,7 @@
 <p>- 🌱 Atualmente estou aprendendo sobre o Git e Github</p>
 <p>- 📘 Atualmente estou apenas montando currículo</p>
 
-Conta Acadêmica (IFSC): [github.com/](https://github.com/Lucas-ZC/projeto-aluraJS1-2-V2)
+Conta Acadêmica (IFSC): <a href="https://github.com/LucasZanellaCapitanio-dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Github-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
