@@ -1,14 +1,18 @@
 <h1 align="center"> Meu README</h1>
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <p>- 🔭 Atualmente estou estudando no Instituto Federal de Santa Catarina - Campus Chapecó e fazendo o curso da Alura<p>
 <p>- 🌱 Atualmente estou aprendendo sobre o Git e Github</p>
 <p>- 📘 Atualmente estou apenas montando currículo</p>
 
-Conta Acadêmica (IFSC): <a href="https://github.com/LucasZanellaCapitanio-dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Github-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+###
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-<img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)">
+<p align="center">
+  Conta Principal <br>
+  <a href="https://github.com/Lucas-ZC">
+    <img src="https://img.shields.io/badge/@Lucas--ZC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-ZC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -17,6 +21,23 @@ Conta Acadêmica (IFSC): <a href="https://github.com/LucasZanellaCapitanio-dev" 
 ###
 
 ![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<p align="center">
+  Conta Acadêmica (IFSC)<br>
+  <a href="https://github.com/LucasZanellaCapitanio-dev">
+    <img src="https://img.shields.io/badge/@LucasZanellaCapitanio--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasZanellaCapitanio-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
+
+###
 
 <h2 align="left">Linguagens e ferramentas</h2>
 
