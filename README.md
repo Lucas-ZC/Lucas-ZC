@@ -33,7 +33,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasZanellaCapitanio-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
 </div>
 
-![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ###
 
