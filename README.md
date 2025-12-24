@@ -1,9 +1,13 @@
 <h1 align="center"> Meu README</h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-<p>- # Atualmente estou estudando no Instituto Federal de Santa Catarina - Campus Chapecó e fazendo o curso da Alura<p>
-<p>- # Atualmente estou aprendendo sobre o Git e Github</p>
-<p>- # Atualmente estou apenas montando currículo</p>
+
+<h2>Sobre Mim</h2>
+
+- 😁 Sou Lucas Zanella Capitanio e tenho 18 anos;
+- 🏫 Atualmente estou estudando no Instituto Federal de Santa Catarina - Campus Chapecó e fazendo o curso da Alura;
+- 📚 Atualmente estou aprendendo sobre o Git e Github;
+- 📝 Atualmente estou apenas montando meu currículo.
 
 ###
 
@@ -48,7 +52,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"&logoColor=white height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -57,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
+
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-ZC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
