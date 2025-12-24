@@ -24,25 +24,25 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Contributions 3D Chart](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/main/profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 ###
 
 <p align="center">
   Conta Acadêmica (IFSC)<br>
-  <a href="https://github.com/LucasZanellaCapitanio-dev">
+  <a href="https://github.com/Lucas-ZC">
     <img src="https://img.shields.io/badge/@LucasZanellaCapitanio--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasZanellaCapitanio-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucas-ZC&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
 </div>
 
 <div align="center">
 
-  ![Snake animation](https://github.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
