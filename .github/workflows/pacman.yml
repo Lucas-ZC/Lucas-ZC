@@ -2,8 +2,8 @@ name: Update 3D Pacman Contributions
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-  workflow_dispatch: 
+    - cron: '0 8 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -28,13 +28,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: Lucas-ZC
-          auto_commit: true           
-          settings_template: classic
+          settings_template: classic 
+          auto_commit: true
           
       - name: Upload to GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: 'dist/'
-          
+          path: 'profile-3d-contrib/'
+        
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
