@@ -2,9 +2,8 @@ name: Update 3D Pacman Contributions
 
 on:
   schedule:
-    # Atualiza TODO DIA ÀS 8h UTC (5h Brasil)
     - cron: "0 8 * * *"
-  workflow_dispatch:  # Permite executar manualmente
+  workflow_dispatch: 
   push:
     branches: [ main ]
 
@@ -28,11 +27,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # SEU USUÁRIO AQUI ↓
           github_user_name: Lucas-ZC
-          # Opções importantes:
-          auto_commit: true           # Faz commit automático
-          settings_template: classic  # Estilo Pacman
+          auto_commit: true           
+          settings_template: classic
           
       - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v2
