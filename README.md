@@ -22,10 +22,11 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucas-ZC&hide_title=true&theme=dracula&show_icons=true&cache_buster=1&card_width=750" height="150" alt="gráfico de status do perfil principal" />
 </div>
 
-<div align="center">
-
-![Contribuições 3D](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/main/profile-3d-contrib/profile-green-animate.svg)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
