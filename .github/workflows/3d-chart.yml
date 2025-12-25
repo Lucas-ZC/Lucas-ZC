@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate 3D chart
-        uses: pllim/actions-contributions-3d@v1.1.0
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_username: Lucas-ZC
