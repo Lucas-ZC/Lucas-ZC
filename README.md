@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Lucas-ZC/Lucas-ZC/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/snake/github-contribution-grid-snake.svg)
 </div>
 
 ###
