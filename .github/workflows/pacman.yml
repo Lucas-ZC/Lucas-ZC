@@ -1,33 +1,32 @@
-name: Update 3D Pacman Contributions
+name: Generate GitHub Contributions 3D Chart
 
 on:
   schedule:
     - cron: '0 8 * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
     
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate 3D Pacman Chart
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Lucas-ZC
-          SETTINGS_TEMPLATE: classic
-          AUTO_COMMIT: 'true'
-          COMMIT_MESSAGE: '🚀 Update 3D contribution graph'
-          GIT_PROFILE_NAME: 'github-actions[bot]'
-          GIT_PROFILE_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Generate 3D contribution graph
+      uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        GH_USERNAME: Lucas-ZC
+        COMMIT_MSG: 'chore: update 3D contribution graph'
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add -A
+        git commit -m 'chore: update 3D contribution graph' || echo "No changes to commit"
+        git push
