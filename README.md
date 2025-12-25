@@ -1,18 +1,18 @@
-<h1 align="center"> Meu README</h1>
+<h1 align="center">Hi I'm Lucas</h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge IN PROGRESS](http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge)
 
-<h2>Sobre Mim</h2>
+<h2>About me</h2>
 
-- 😁 Sou Lucas Zanella Capitanio e tenho 18 anos;
-- 🏫 Atualmente estou estudando no Instituto Federal de Santa Catarina - Campus Chapecó e fazendo o curso da Alura;
-- 📚 Atualmente estou aprendendo sobre o Git e Github;
-- 📝 Atualmente estou apenas montando meu currículo.
+- 👋 I'm Lucas Zanella Capitanio, an 18-year-old developer.
+- 🎓 I'm currently studying at the **Federal Institute of Santa Catarina - Chapecó Campus** and taking courses on **Alura**.
+- 📚 I'm currently learning about **Git and GitHub**.
+- 🎯 Right now, I'm focused on **building my resume** and portfolio.
 
 ###
 
 <p align="center">
-  Conta Principal <br>
+  Main account <br>
   <a href="https://github.com/Lucas-ZC">
     <img src="https://img.shields.io/badge/@Lucas--ZC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico">
   </a>
@@ -21,6 +21,8 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucas-ZC&hide_title=true&theme=dracula&show_icons=true&cache_buster=1&card_width=750" height="150" alt="gráfico de status do perfil principal" />
 </div>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/output/pacman-contribution-graph-dark.svg">
@@ -31,8 +33,8 @@
 ###
 
 <p align="center">
-  Conta Acadêmica (IFSC)<br>
-  <a href="https://github.com/Lucas-ZC">
+  Academic account (IFSC)<br>
+  <a href="https://github.com/LucasZanellaCapitanio-dev">
     <img src="https://img.shields.io/badge/@LucasZanellaCapitanio--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico">
   </a>
 </p>
@@ -48,7 +50,7 @@
 
 ###
 
-<h2 align="left">Linguagens e ferramentas</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -71,9 +73,9 @@
 
 ###
 
-## Contatos:
+## Contact me:
 <div>
-<a href="https://instagram.com/lucaszanella_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@lucascapitano2018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-zanella-capitanio-518138383/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/lucaszanella_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucascapitano2018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-zanella-capitanio-518138383/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
