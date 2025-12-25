@@ -30,6 +30,8 @@ jobs:
           github_user_name: Lucas-ZC
           settings_template: classic 
           auto_commit: true
+          commit_message: 'Update 3D contribution graph'
+          git_profile_name: 'github-actions[bot]'
           
       - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v3
