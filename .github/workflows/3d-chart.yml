@@ -1,0 +1,34 @@
+name: Generate 3D Contribution Chart
+
+on:
+  schedule:
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate 3D chart
+        uses: pllim/actions-contributions-3d@v1.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: Lucas-ZC
+          gif_name: 'profile-3d-contrib.gif'
+          theme: 'classic'
+          
+      - name: Commit and push generated chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update 3D contribution chart" || echo "No changes to commit"
+          git push
