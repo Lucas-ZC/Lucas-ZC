@@ -29,14 +29,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Cria branch 'output' se não existir
           git checkout --orphan output || git checkout output
           git rm -rf . || echo "Nothing to remove"
-          
-          # Copia arquivos gerados
           cp -r dist/* . 2>/dev/null || echo "No files in dist/"
           
-          # Faz commit e push
           git add .
           git commit -m "Update Pacman graph" || echo "No changes"
           git push origin output --force
