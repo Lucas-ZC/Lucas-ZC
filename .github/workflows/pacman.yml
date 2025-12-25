@@ -25,10 +25,9 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          github_user_name: Lucas-ZC
-          settings_template: classic 
-          auto_commit: true
-          commit_message: '🚀 Update 3D contribution graph'
-          git_profile_name: 'github-actions[bot]'
-          git_profile_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          USERNAME: Lucas-ZC
+          SETTINGS_TEMPLATE: classic
+          AUTO_COMMIT: 'true'
+          COMMIT_MESSAGE: '🚀 Update 3D contribution graph'
+          GIT_PROFILE_NAME: 'github-actions[bot]'
+          GIT_PROFILE_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
