@@ -36,7 +36,6 @@ jobs:
           git rm -rf . || echo "Nothing to remove"
           cp -r dist/* . 2>/dev/null || echo "No files in dist/"
           
-          # Faz commit e push
           git add .
           git commit -m "Update Snake animation" || echo "No changes"
           git push origin snake --force
