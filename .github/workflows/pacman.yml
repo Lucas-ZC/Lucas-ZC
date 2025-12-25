@@ -18,10 +18,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v3
-        
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Generate 3D Pacman Chart
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -30,13 +29,6 @@ jobs:
           github_user_name: Lucas-ZC
           settings_template: classic 
           auto_commit: true
-          commit_message: 'Update 3D contribution graph'
+          commit_message: '🚀 Update 3D contribution graph'
           git_profile_name: 'github-actions[bot]'
-          
-      - name: Upload to GitHub Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'profile-3d-contrib/'
-        
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+          git_profile_email: '41898282+github-actions[bot]@users.noreply.github.com'
