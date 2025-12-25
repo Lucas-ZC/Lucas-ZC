@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  ![GitHub Contributions 3D Chart](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/main/profile-3d-contrib/profile-green-animate.svg)
+![Contribuições 3D](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/main/profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 ###
