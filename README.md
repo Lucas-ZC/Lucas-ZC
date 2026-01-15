@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-- 👋 I'm Lucas Zanella Capitanio, an 18-year-old developer.
+- 👋 I'm Lucas Zanella Capitanio, an 18-year-old student.
 - 🎓 I'm currently studying at the **Federal Institute of Santa Catarina - Chapecó Campus** and taking courses on **Alura**.
 - 📚 I'm currently learning about **Git and GitHub**.
 - 🎯 Right now, I'm focused on **building my resume** and portfolio.
