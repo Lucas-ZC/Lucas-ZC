@@ -40,12 +40,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucas-ZC&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasZanellaCapitanio-dev&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&card_width=750" height="150" alt="gráfico de status do perfil secundário" />
 </div>
 
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/Lucas-ZC/Lucas-ZC/snake/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/LucasZanellaCapitanio-dev/LucasZanellaCapitanio-dev/snake/github-contribution-grid-snake.svg)
 </div>
 
 ###
